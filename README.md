@@ -1,4 +1,3 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*IWIyvnVa7xeCFmq3.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jing Zhang</h1>
 <h3 align="center">A fullstack developer .NET student from Sweden</h3>
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzMyb3pjMWpqZnd1MGc2dTFobzFjeXcwNDM3eG1yaGZ0Z2ltc2VmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6EWyszhJ2kL3ceQuD2/giphy.gif">
